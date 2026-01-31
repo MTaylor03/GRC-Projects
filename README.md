@@ -1,2 +1,7 @@
-# Matthew Taylor GRC Projects/Portfolio
-Overview of my learning path of governance, risk, and compliance analysis.
+# GRC Compliance Project - ISO 27001 + NIST RMF Implementation for MJTSolutions LLC
+## Project Overview
+In this project I created a fictional company, MJTSolutions LLC, a small IT Managed Service Provider that handles internal and client information such as PII and financial records. The goal of the project was to design and document a basic Information Security Management System (ISMS) for the organization using ISO 27001 concepts and controls, and then manage that control set through the NIST Risk Management Framework (RMF) lifecycle.
+
+To accomplish this, I first defined the organizational environment and ISMS scope, developed an asset inventory, and performed a simple risk assessment. Based on the identified risks, I selected a focused set of ISO 27001 Annex A controls that were most relevant to a small MSP environment. I then created basic supporting security documentation and policies to demonstrate how those controls would be implemented in practice.
+
+After establishing the ISO-based control baseline, I applied the NIST RMF process to the system. This included categorizing the system, mapping the selected ISO controls to NIST SP 800-53 control families, documenting implementation details, performing a simulated assessment, making an authorization decision, and developing a continuous monitoring strategy. The project demonstrates a practical understanding of how GRC analyst activities are performed in a real-world organization.
