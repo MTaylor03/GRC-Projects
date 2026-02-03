@@ -6,7 +6,7 @@ This organization serves as the subject environment for a GRC project.
 
 ## Business Profile
 
-MJTSolutions operates as a technology services company that manages IT infrastructure and sensitive data on behalf of internal stakeholders and external clients. The simulated company environment includes the handling of:
+Based in Athens, Ohio, MJTSolutions operates as a technology services company that manages IT infrastructure and sensitive data on behalf of internal stakeholders and external clients. The simulated company environment includes the handling of:
 
 - Personally Identifiable Information (PII)  
 - Financial records and transactional data  
