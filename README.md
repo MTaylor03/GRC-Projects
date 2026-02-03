@@ -1,6 +1,6 @@
-# GRC Compliance Project - ISO 27001 + NIST RMF Implementation for MJTSolutions LLC
+# GRC Compliance Project - ISO 27001 Certification + NIST RMF Implementation for MJTSolutions LLC
 ## Project Overview
-In this project I created a fictional company, MJTSolutions LLC, a small IT Managed Service Provider that handles internal and client information such as PII and financial records. The goal of the project was to design and document a basic Information Security Management System (ISMS) for the organization using ISO 27001 concepts and controls, and then manage that control set through the NIST Risk Management Framework (RMF) lifecycle.
+In this project I created a fictional company, MJTSolutions LLC, a small IT Managed Service Provider that handles internal and client information such as PII and financial records. The goal of the project was to design and document a basic Information Security Management System (ISMS) for the organization using ISO 27001 concepts and controls, and then manage that control set through the NIST Risk Management Framework (RMF) lifecycle. As a result the company would recieve an ISO 27001 Certification, showing that they are compliant with storing and processing sensitive data.
 
 To accomplish this, I first defined the organizational environment and ISMS scope, developed an asset inventory, and performed a simple risk assessment. Based on the identified risks, I selected a focused set of ISO 27001 Annex A controls that were most relevant to a small MSP environment. I then created basic supporting security documentation and policies to demonstrate how those controls would be implemented in practice.
 
